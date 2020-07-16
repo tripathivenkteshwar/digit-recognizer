@@ -6,17 +6,21 @@ filters replace the single 5x5 filters, max pooling layers inplaces of average p
 Batch normalization and Dropout is added)
 
 
-### Dependence requred:
+### Dependence required:
+
 * [Tensorflow](https://www.tensorflow.org/)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
 
 
-### LeNet-5 Architecture consider with some improvements
+### LeNet-5 Architecture
+
 <p align="center">
   <img src="https://github.com/tripathivenkteshwar/digit-recognizer/blob/master/img/LeNet%205.png">
 </p>
 
+
+### Some improvements in LeNet-5 Architecture are:
 
 * ***Two stacked 3x3 filters replace the single 5x5 filters.***
 
