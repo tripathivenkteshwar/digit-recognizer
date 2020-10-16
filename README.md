@@ -1,7 +1,7 @@
 # Digit Recognizer
 
-*Model to recognize digits with a convolutional neural network, consider LeNet-5 Architecture with some improvements viz (two stacked 3x3 <br>
-filters replace the single 5x5 filters, max pooling layers inplaces of average pooling layers, ReLU activation replaces sigmoid, <br>
+*Model to recognize digits with a convolutional neural network, consider LeNet-5 Architecture with some improvements viz (two stacked 3x3 
+filters replace the single 5x5 filters, max pooling layers inplaces of average pooling layers, ReLU activation replaces sigmoid, 
 Batch normalization and Dropout is added)*
 
 ## Code and Resources Used 
